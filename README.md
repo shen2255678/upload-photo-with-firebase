@@ -10,7 +10,7 @@ Server - Firebase
 
 # Permissions
 Followings are permissions required for all the mentioned features to work.
-```php
+```xml
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 <uses-permission android:name="android.permission.CAMERA"/>
