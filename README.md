@@ -15,4 +15,4 @@ Followings are permissions required for all the mentioned features to work.
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 <uses-permission android:name="android.permission.CAMERA"/>
 ```
-`INTERNET` permission is required to access online content and WRITE_EXTERNAL_STORAGE+CAMERA permissions to take photo from camera and save it to gallery
+`INTERNET` permission is required to access online content and `WRITE_EXTERNAL_STORAGE`+`CAMERA` permissions to take photo from camera and save it to gallery
