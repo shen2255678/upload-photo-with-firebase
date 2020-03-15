@@ -29,4 +29,4 @@ Followings are permissions required for all the mentioned features to work.
 ```
 # About Project
 此app含有會員系統、gps定位、圖片/備註資訊的上傳，且選擇拍完照片上傳的部分，上傳完後會自動將存在手機裡的檔案刪除
-![GITHUB]( 2017_October13.jpg "圖片名稱")
+
