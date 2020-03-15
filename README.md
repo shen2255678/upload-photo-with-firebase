@@ -27,3 +27,5 @@ Followings are permissions required for all the mentioned features to work.
 ```
 22/09/19 - Camera not working in API 29
 ```
+# About Project
+此app含有會員系統、gps定位、圖片/備註資訊的上傳，且選擇拍完照片上傳的部分，上傳完後會自動將存在手機裡的檔案刪除
