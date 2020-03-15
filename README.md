@@ -1,7 +1,7 @@
 # upload-photo-with-firebase
 此app含有會員系統並可將(gps定位、圖片/備註等)資訊上傳至firebase
 
-* 拍完照上傳完會自動將手機內的檔案刪除
+* 拍完照上傳完會將此張照片於手機內自動刪除
 # Test Run
 Just putting these basic steps to help starters:
 
