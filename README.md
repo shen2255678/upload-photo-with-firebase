@@ -9,7 +9,11 @@ Just putting these basic steps to help starters:
 2. `Build > Clean Project` and `Build > Rebuild Project`
 3. If everything goes alright, you can start testing
 4. In case or any error, check Build and Logcat tab for details
+# Connect firebase
+Firebase Storage Image/text Upload(https://firebase.google.com/docs/storage/android/start) 
 
+1.`
+2.
 # Permissions
 Followings are permissions required for all the mentioned features to work.
 ```xml
