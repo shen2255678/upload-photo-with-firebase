@@ -10,10 +10,10 @@ Just putting these basic steps to help starters:
 3. If everything goes alright, you can start testing
 4. In case or any error, check Build and Logcat tab for details
 # Connect firebase 
-[Firebase Storage Image/text Upload](https://firebase.google.com/docs/storage/android/start)
+[Firebase Storage Image/Text Upload and setting](https://firebase.google.com/docs/storage/android/start)
 
-1.`
-2.
+1.'Tools >Firebase' in Android Studio
+
 # Permissions
 Followings are permissions required for all the mentioned features to work.
 ```xml
