@@ -11,7 +11,7 @@ Just putting these basic steps to help starters:
 4. In case or any error, check Build and Logcat tab for details
 # Connect firebase
 Firebase Storage Image/text Upload(https://firebase.google.com/docs/storage/android/start) 
-
+(https://www.google.com "Google 的首頁")
 1.`
 2.
 # Permissions
