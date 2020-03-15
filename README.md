@@ -1,12 +1,7 @@
 # upload-photo-with-firebase
-This is one of many ways to create a photo upload service using Firebase and Android. I belive there is a lot of more improvement work to be done to handle errors in the server-side.
+此app含有會員系統並可將(gps定位、圖片/備註等)資訊上傳至firebase
 
-This repo contains both the Android app and the firebase sources, they are in two separaed folders.
-
-The folders are:
-
-* App - This is the Android App
-* Server - Firebase
+* 拍完照上傳完會自動將手機內的檔案刪除
 # Test Run
 Just putting these basic steps to help starters:
 
@@ -28,5 +23,5 @@ Followings are permissions required for all the mentioned features to work.
 22/09/19 - Camera not working in API 29
 ```
 # About Project
-此app含有會員系統、gps定位、圖片/備註資訊的上傳，且選擇拍完照片上傳的部分，上傳完後會自動將存在手機裡的檔案刪除
+
 
