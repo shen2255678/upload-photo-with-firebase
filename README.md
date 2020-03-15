@@ -8,7 +8,7 @@ The folders are:
 App - This is the Android App
 Server - Firebase
 
-#Permissions
+# Permissions
 Followings are permissions required for all the mentioned features to work.
 ```android
 <uses-permission android:name="android.permission.INTERNET" />
