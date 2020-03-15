@@ -5,8 +5,8 @@ This repo contains both the Android app and the firebase sources, they are in tw
 
 The folders are:
 
-App - This is the Android App
-Server - Firebase
+*App - This is the Android App
+*Server - Firebase
 
 # Permissions
 Followings are permissions required for all the mentioned features to work.
