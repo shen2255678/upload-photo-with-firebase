@@ -8,3 +8,6 @@ The folders are:
 App - This is the Android App
 Server - Firebase
 # test
+<uses-permission android:name="android.permission.INTERNET" />
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+<uses-permission android:name="android.permission.CAMERA"/>
