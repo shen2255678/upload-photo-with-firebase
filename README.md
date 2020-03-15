@@ -7,6 +7,13 @@ The folders are:
 
 * App - This is the Android App
 * Server - Firebase
+# Test Run
+Just putting these basic steps to help starters:
+
+1.File > Open choose project folder and let android studio download supportive libraries.
+2.Build > Clean Project and Build > Rebuild Project
+3.If everything goes alright, you can start testing
+4.In case or any error, check Build and Logcat tab for details
 
 # Permissions
 Followings are permissions required for all the mentioned features to work.
