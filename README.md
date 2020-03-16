@@ -31,15 +31,15 @@ Followings  are GPS permission and  how to apply for Google Map API KEY.
 1.
 <img src="https://github.com/shen2255678/-/blob/master/1.png" width="300" alt="day"/>
 2.
-<img src="https://github.com/shen2255678/-/blob/master/2.png" width="300" alt="day"/>
+<img src="https://github.com/shen2255678/-/blob/master/2.png" width="500" alt="day"/>
 3.
-<img src="https://github.com/shen2255678/-/blob/master/3.png" width="300" alt="day"/>
+<img src="https://github.com/shen2255678/-/blob/master/3.png" width="500" alt="day"/>
 4.
 <img src="https://github.com/shen2255678/-/blob/master/4.png" width="300" alt="day"/>
 5.
-<img src="https://github.com/shen2255678/-/blob/master/5.png" width="300" alt="day"/>
+<img src="https://github.com/shen2255678/-/blob/master/5.png" width="500" alt="day"/>
 6.
-
+<img src="https://github.com/shen2255678/-/blob/master/6.jpg" width="500" alt="day"/>
 # Know bugs
 ```
 22/09/19 - Camera not working in API 29
