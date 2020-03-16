@@ -28,6 +28,7 @@ Followings  are GPS permission and  how to apply for Google Map API KEY.
 ```xml
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 ```
+![image](1.png)
 
 # Know bugs
 ```
