@@ -14,7 +14,7 @@ Just putting these basic steps to help starters:
 # Connect firebase 
 [Firebase Storage Image/Text Upload and setting](https://firebase.google.com/docs/storage/android/start)
 
-1.'Tools >Firebase' in Android Studio
+1.`Tools >Firebase` in Android Studio
 
 # Permissions
 Followings are permissions required for all the mentioned features to work.
@@ -36,7 +36,7 @@ Followings  are GPS permission and  how to apply for Google Map API KEY.
 <img src="https://github.com/shen2255678/-/blob/master/4.png" width="300" alt="day"/>
 4.
 <img src="https://github.com/shen2255678/-/blob/master/5.png" width="375" alt="day"/>
-5.Paste the key into google_maps_key in`AndroidManifest.xml`
+5.Paste the key into google_maps_key in AndroidManifest.xml
 <img src="https://github.com/shen2255678/-/blob/master/6.jpg" width="450" alt="day"/>
 
 # Know bugs
