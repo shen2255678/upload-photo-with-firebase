@@ -30,7 +30,7 @@ Followings  are GPS permission and  how to apply for Google Map API KEY.
 ```
 1. 開啟Android studio 點選`Google Maps Activity project`
 <img src="https://github.com/shen2255678/-/blob/master/1.png" width="300" alt="day"/>
-2.After the project is created, you will see a file google_maps_api.xml with a link to apply for a Google Maps API key. Copy the link and go to the application key
+2.After the project is created,Copy the link and go to the application key
 <img src="https://github.com/shen2255678/-/blob/master/3.png" width="500" alt="day"/>
 3.
 <img src="https://github.com/shen2255678/-/blob/master/4.png" width="300" alt="day"/>
