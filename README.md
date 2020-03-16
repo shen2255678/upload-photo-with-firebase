@@ -28,16 +28,15 @@ Followings  are GPS permission and  how to apply for Google Map API KEY.
 ```xml
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 ```
-1. 
-<img src="https://github.com/shen2255678/-/blob/master/1.png" width="300" alt="day"/>2. <img src="https://github.com/shen2255678/-/blob/master/2.png" width="500" alt="day"/>
-
-3.
+1. 開啟Android studio 點選google map activity's project
+<img src="https://github.com/shen2255678/-/blob/master/1.png" width="300" alt="day"/>
+2.
 <img src="https://github.com/shen2255678/-/blob/master/3.png" width="500" alt="day"/>
-4.
+3.
 <img src="https://github.com/shen2255678/-/blob/master/4.png" width="300" alt="day"/>
-5.
+4.
 <img src="https://github.com/shen2255678/-/blob/master/5.png" width="375" alt="day"/>
-6.
+5.
 <img src="https://github.com/shen2255678/-/blob/master/6.jpg" width="450" alt="day"/>
 
 # Know bugs
